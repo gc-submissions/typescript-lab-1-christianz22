@@ -14,4 +14,4 @@ Two options...
 ## Testing
 This project has pre-written tests, but they start out disabled. Enable each test file individually by renaming it and removing the .rename-me extension. For example, rename `mountains.test.ts.rename-me` to `mountains.test.ts` when you are ready to start working on the mountains features.
 
-The reason these start disabled is so that you won't see errors for features you haven't started working on yet. The way this works is simply that TypeScript and Jest are only looking for files that end in `.ts` and `.test.ts`.
+The reason these start disabled is so that you won't see errors for features you haven't started working on yet. The way this works is simply that TypeScript and Jest are only looking for files that end in `.ts` and `.test.ts`.# Typescript-Lab-1
